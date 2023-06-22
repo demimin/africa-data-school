@@ -1,0 +1,106 @@
+img{
+    width:2cm;
+    border-radius:0.5cm;
+    margin-left:2cm;
+}
+#school{
+    font-size:small;
+    font-style:normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightseagreen;
+    border-top: 0cm;
+    margin-left:2cm;
+}
+
+.div1{
+    background-image: url(/images/stars.jpg);
+    height: 15cm;
+    background-position:50%;
+}
+#info{
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-left: 2cm;
+    margin-top: 2.5cm;
+    padding-top: 0cm;
+    line-height: 60%;
+}
+#extras{
+    color: rgb(255, 255, 255);
+    line-height: 0.1cm;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#instagram{
+    color: aqua;
+}
+#apply{
+    color: white;
+   background-color: rgb(24, 148, 219);
+    margin-left: 3cm;
+    font-size: large;
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 2cm;
+    cursor: grabbing;
+    display: inline-block;
+    font-style: normal;
+    font-weight: lighter;
+    font-family: serif;
+    border-width: 0.5cm;
+    border-color: rgb(24, 148, 219);
+    
+}
+#div2{
+    height: 16cm;
+    width: auto;
+    display: inline-block;
+    
+  
+}
+.companies1{
+    margin-left: 0cm;
+    display:inline-block; 
+    padding: 1cm;
+    
+    
+    
+}
+.companies2{
+    margin-left:  10cm;
+    margin-top: 0cm;
+    display: grid;
+    padding: 1cm;
+
+}
+#companies3{ 
+    margin-left: 5cm;
+    display: grid;
+    margin-right: 1cm
+}
+#div3{
+    height: 10cm;
+    padding-top: 1cm;
+    width: auto;
+    background-color: white;
+}
+#countries{ 
+    display: inline-block;
+    padding-top: 2cm;
+    padding-top: 5%;
+}
+#div4{
+    width: 30cm;
+    height: 19cm;
+    display: inline-block;
+    
+}
+#subdiv4{
+    float: right;
+    width:10cm;
+}
+
+
+
